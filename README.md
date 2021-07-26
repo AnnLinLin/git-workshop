@@ -12,4 +12,15 @@
 3. 就算不認識也能透過旅行來結交到不同地區的人。
 
 ## Images
-![This is a alt text.](http://wiki.csie.ncku.edu.tw/git_file_status.PNG)
+![git 圖](http://wiki.csie.ncku.edu.tw/git_file_status.PNG)
+
+ 點我[參考資料](http://wiki.csie.ncku.edu.tw/git)
+
+***
+ ## 查看log
+
+| 選項  | 說明 |
+| ------------- |:-------------|
+| -p     | 顯示每個更新與上一個的差異。     |
+|--stat      | 顯示每個更新更動的檔案的統計及摘要資訊。     |
+| --shortstat      | 只顯示 --stat 提供的的訊息中關於更動、插入、刪除的文字。     |
