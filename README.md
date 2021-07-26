@@ -39,11 +39,11 @@ $ git add hello.txt
 
 ```
 
-###顏色
+### 顏色
 <font color=#008000>墨綠色</font>
 <font color=#800000>酒紅色</font>
 
-###代辦事項
+### 代辦事項
 - [ ] 作業A
 - [x] 作業B
 - [x] 作業C
