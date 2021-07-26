@@ -38,3 +38,6 @@ $ git status
 $ git add hello.txt
 
 ```
+
+<font color=#008000>墨綠色</font>
+<font color=#800000>酒紅色</font>
