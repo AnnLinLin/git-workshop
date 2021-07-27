@@ -40,7 +40,7 @@ $ git add hello.txt
 ```
 
 ### 顏色
-<font color=#008000>墨綠色</font>
+<font color=#008000>墨綠色</font><br>
 <font color=#800000>酒紅色</font>
 
 ### 代辦事項
@@ -50,3 +50,6 @@ $ git add hello.txt
 - [ ] 作業D
 
 ### 字體
+*斜體*<br>
+**bold**<br>
+***粗斜體***
